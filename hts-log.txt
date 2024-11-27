@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 Nov 2024 03:36:01 at https://kabochan.blog.jp/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kabochan.blog.jp/ -O1 "C:\Users\shado\Dropbox\My PC (DESKTOP-C7UPTTD)\Desktop\Larp Creator\kabochan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:36:09	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://kabochan.blog.jp/settings/header.js?v=20230927
+03:41:06	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://kabochan.blog.jp/)
+03:47:01	Warning: 	Link https://kabochan.blog.jp/_/oa_notifier not scanned (follow robots meta tag)
+05:04:32	Error: 	"Forbidden" (403) at link https://ipcheck.blogsys.jp/check.js?t= (from https://kabochan.blog.jp/)
+05:06:56	Warning: 	Link https://kabochan.blog.jp/_/ldapp_notifier?ref=editor_ldapp&id=7331795 not scanned (follow robots meta tag)
+05:07:48	Error: 	Exit requested by shell or user
+05:07:49	Warning: 	File not added due to mirror cancel: https://kabochan.blog.jp/archives/42791260.html
+05:18:29	Error: 	"Bad Request" (400) at link https://kabochan.blog.jp/archives/%url% (from https://kabochan.blog.jp/archives/cat_315735.html)
+05:34:37	Warning: 	File not added due to mirror cancel: kabosu112.exblog.jp/robots.txt
+05:34:37	Warning: 	Moved Permanently for kabosu112.exblog.jp/iv/detail/?s=22577097&i=201509%2F26%2F90%2Fa0126590_02223233.jpg
+05:34:37	Warning: 	File has moved from kabosu112.exblog.jp/iv/detail/?s=22577097&i=201509%2F26%2F90%2Fa0126590_02223233.jpg to https://kabosu112.exblog.jp:443/iv/detail/?s=22577097&i=201509%2F26%2F90%2Fa0126590_02223233.jpg
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 58 minutes 40 seconds : 11257 links scanned, 11251 files written (1432472828 bytes overall) [792496282 bytes received at 111305 bytes/sec], 780151973 bytes transferred using HTTP compression in 5474 files, ratio 17%, 19.5 requests per connection
+(4 errors, 7 warnings, 0 messages)
